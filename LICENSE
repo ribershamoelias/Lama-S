@@ -1,21 +1,204 @@
-MIT License
+:::writing{variant=“standard” id=“license-final-001”}
+Lama Open Ecosystem License (LOEL v1.0)
 
 Copyright (c) 2026 Riber Shamo Elias
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+⸻
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+🦙 TL;DR
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are free to use, modify, and commercially use this Software.
+
+You MUST:
+	•	Credit the original creator
+	•	Preserve contributor transparency
+
+You may NOT:
+	•	Remove attribution
+	•	Misrepresent authorship
+
+Violation = termination of rights.
+
+⸻
+
+1. Definitions
+
+For the purposes of this License:
+	•	“Software” means the source code, binaries, assets, documentation, and all associated files distributed under this License.
+	•	“Author” refers to the original creator and copyright holder of the Software.
+	•	“User” refers to any individual or legal entity using the Software.
+	•	“Contributor” refers to any individual who modifies or contributes to the Software.
+	•	“Derivative Work” means any modification or work based on the Software.
+	•	“Commercial Use” means any use intended for business purposes, monetization, internal company usage, or integration into a product or service.
+
+⸻
+
+2. Grant of Rights
+
+Permission is hereby granted, free of charge, to any User obtaining a copy of the Software, to:
+	•	use, copy, and reproduce the Software
+	•	modify and create Derivative Works
+	•	merge the Software with other software
+	•	publish and distribute the Software
+	•	use the Software in both commercial and non-commercial contexts
+
+These rights are granted worldwide, non-exclusive, and royalty-free, subject to the conditions below.
+
+⸻
+
+3. Mandatory Attribution (Core Condition)
+
+All rights granted under this License are conditional upon proper attribution.
+
+All Users MUST provide clear and visible credit:
+
+“Original Creator: Riber Shamo Elias”
+
+Additionally:
+	•	All Contributors MUST be acknowledged as documented in the /Contributors/ system.
+
+Attribution must be:
+	•	reasonably visible and accessible
+	•	not hidden, removed, or misleading
+	•	included in source code and, where applicable, documentation or user-facing environments
+
+Failure to provide proper attribution automatically terminates all rights granted under this License.
+
+⸻
+
+4. Contributor Transparency System
+
+To ensure fairness and transparency:
+
+4.1 Contributor Records
+
+Each Contributor MUST document their contributions using ONE of the following methods:
+
+Option A — Structured Files (Recommended):
+	•	Directory: /Contributors/
+	•	File format: mychanges_<username>.md
+
+Each file MUST include:
+	•	real name
+	•	description of changes
+	•	date(s) of contribution
+
+⸻
+
+Option B — Scalable Alternative:
+	•	a centralized CONTRIBUTORS.md file
+	•	or an automated export from version control history
+
+Provided that:
+	•	contributions remain clearly attributable
+	•	records are not removed, hidden, or falsified
+
+⸻
+
+4.2 Preservation Requirement
+
+All Contributor records MUST be preserved in:
+	•	original repositories
+	•	forks
+	•	Derivative Works
+
+⸻
+
+5. Contributor Rights
+	•	Contributors retain recognition for their contributions
+	•	Contributions are licensed under this License
+	•	Contributors do NOT gain ownership of the Software as a whole
+	•	The Author retains primary ownership of the Software
+
+⸻
+
+6. Preservation of License
+
+All copies or substantial portions of the Software MUST include:
+	•	this License text
+	•	the original copyright notice
+	•	all Contributor records
+
+⸻
+
+7. Integrity of Authorship
+
+Users may NOT:
+	•	claim the Software as their original work
+	•	remove or alter attribution
+	•	falsify or manipulate Contributor records
+	•	misrepresent the origin of the Software
+
+⸻
+
+8. Responsible Use
+
+The Software is intended to be used responsibly.
+
+Use that intentionally harms individuals, communities, or the integrity of the Software ecosystem may be considered a violation of this License.
+
+⸻
+
+9. Commercial Use
+
+Commercial Use is permitted provided that:
+	•	attribution is preserved
+	•	Contributor records are maintained
+	•	all License terms are followed
+
+Users may NOT:
+	•	present the Software as their own original creation
+	•	remove attribution in commercial environments
+	•	conceal the origin of the Software
+
+⸻
+
+10. Derivative Works
+
+All Derivative Works:
+	•	MUST include this License
+	•	MUST preserve attribution and Contributor records
+	•	MUST clearly indicate that changes were made
+
+⸻
+
+11. Termination
+
+Any violation of this License results in immediate termination of all rights granted.
+
+Upon termination, the User must:
+	•	cease all use of the Software
+	•	stop distribution
+	•	remove deployed versions where applicable
+
+⸻
+
+12. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+⸻
+
+13. Limitation of Liability
+
+IN NO EVENT SHALL THE AUTHOR OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+⸻
+
+14. Governing Principle
+
+This License is built on:
+	•	freedom to build
+	•	fairness to creators
+	•	transparency of contributions
+	•	responsible usage
+
+⸻
+
+Build freely.
+Credit honestly.
+Respect the ecosystem.
+
+⸻
+
+END OF TERMS
