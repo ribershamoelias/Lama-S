@@ -186,3 +186,9 @@ xcodebuild -project "Lama S.xcodeproj" -scheme "Lama S" -configuration Debug -sd
 - Some intent/workflow infrastructure exists but is only partially integrated
 - AI configuration is now available in-app, but provider validation/testing can still improve
 - Project setup currently assumes a local macOS development environment
+
+## License
+
+This project is licensed under the Lama Open Ecosystem License (LOEL v1.0). See [LOEL_LICENSE.txt](LOEL_LICENSE.txt) for details.
+
+Attribution: Original Creator — Riber Shamo Elias. Contributors are listed in [CONTRIBUTORS.md](CONTRIBUTORS.md) and the /Contributors/ directory.
